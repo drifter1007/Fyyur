@@ -1,0 +1,17 @@
+**Final Venue_data**
+[{'id': 2, 'name': u'The Dueling Pianos Bar'}]
+
+**Data**
+[{'city': u'San Francisco', 'state': u'CA',
+'venues': [{'id': 1, 'name': u'The Musical Hop'},
+{'id': 3, 'name': u'PARK SQUARE LIVE MUSIC & COFFEE'}]},
+{'city': u'New York', 'state': u'NY',
+'venues': [{'id': 2, 'name': u'The Dueling Pianos Bar'}]}]
+
+[
+{"city": "San Francisco","state": "CA",
+"venues": [{"id": 1,"name": "The Musical Hop","num_upcoming_shows": 0,},
+{"id": 3,"name": "Park Square Live Music & Coffee","num_upcoming_shows": 1,}]},
+{"city": "New York","state": "NY",
+"venues": [{"id": 2,"name": "The Dueling Pianos Bar","num_upcoming_shows": 0,}]}
+]
