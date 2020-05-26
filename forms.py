@@ -194,7 +194,7 @@ class ArtistForm(Form):
         'website'
         )
     genres = SelectMultipleField(
-        # TODO implement    
+        # TODO implement  enum   
         'genres', validators=[DataRequired()],
         choices=[
             ('Alternative', 'Alternative'),
